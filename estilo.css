@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 200px;
+    background-color:#009900
+}
+
+#menu{
+    position: sticky;
+    height: 50px;
+    background-color:#000000;
+    float: bottom;
+}
+
+#container2{
+    margin: 10px 0 30px 0;
+}
+
+#box1{
+    background-color:orange;
+    float: left;
+    height: 400px;
+    width: 75%;
+}
+
+#box2{
+    background-color:blue;
+    float:right;
+    height: 400px;
+    width: 24%;
+}
+
+footer{
+    clear: both;
+    height: 70px;
+    background-color: #000000
+}

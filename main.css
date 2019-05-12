@@ -1,0 +1,21 @@
+* {
+    margin:0;
+    padding: 0;
+}
+h1{
+    color:blueviolet;
+    background-color:black;
+}
+
+.alternativo{
+    color:blue;
+}
+
+.alternativos{
+    color:rgb(245, 20, 20);
+}
+
+body {
+    font-family:monospace;
+}
+
