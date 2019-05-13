@@ -16,7 +16,7 @@ body{
 
 header{
     background-color: #ffffff;
-    height: 140px;
+    height: 200px;
     padding:3px;
 }
 
@@ -70,7 +70,7 @@ h1{
 }
 
 #menu {
-    margin-top: 50px;
+    margin-top: 30px;
     float: right;
 }
 
