@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial';
+    background-image: url("https://imgnooz.com/sites/default/files/wallpaper/nature/60916/beautiful-wedding-bouquet-wallpapers-60916-4598866.jpg");
+    
+}
+
+#containerSel {
+    padding: 50px 0 0 0;
+    text-align: center;
+}
+
+
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px #000000;
+    padding: 70px;
+    color: #ea5941;
+    font-family: 'Dancing Script';
+    font-size: 80px;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 1px 1px #000000;
+    padding: 20px;
+    color: #ea5941;
+    font-family: 'Dancing Script';
+    font-size: 60px;
+}
+
+button {
+    background: #ea5941;
+    background-image: -webkit-linear-gradient(top, #ea5941, #d8a9ad);
+    background-image: -moz-linear-gradient(top, #ea5941, #d8a9ad);
+    background-image: -ms-linear-gradient(top, #ea5941, #d8a9ad);
+    background-image: -o-linear-gradient(top, #ea5941, #d8a9ad);
+    background-image: linear-gradient(to bottom, #ea5941, #d8a9ad);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 0px 1px 3px #575757;
+    -moz-box-shadow: 0px 1px 3px #575757;
+    box-shadow: 0px 1px 3px #575757;
+    font-family: 'Dancing Script';
+    color: #ffffff;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: none;
+}
+  
+button:hover {
+    background: #d8a9ad;
+    background-image: -webkit-linear-gradient(top, #d8a9ad, #ea5941);
+    background-image: -moz-linear-gradient(top, #d8a9ad, #ea5941);
+    background-image: -ms-linear-gradient(top, #d8a9ad, #ea5941);
+    background-image: -o-linear-gradient(top, #d8a9ad, #ea5941);
+    background-image: linear-gradient(to bottom, #d8a9ad, #ea5941);
+    text-decoration: none;
+  }
+
+#insideList {
+    background-color: #000000;
+    width: 100%;
+}
+
+select {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
+
+footer {
+    margin-top: 400px;
+    background-color: rgba(218, 216, 216, 0.726);
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
