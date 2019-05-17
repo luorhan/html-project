@@ -6,7 +6,7 @@
 body {
     font-family: 'Arial';
     background-image: url("https://imgnooz.com/sites/default/files/wallpaper/nature/60916/beautiful-wedding-bouquet-wallpapers-60916-4598866.jpg");
-    
+    background-attachment: fixed;
 }
 
 #containerSel {
